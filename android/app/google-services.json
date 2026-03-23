@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302663652554",
+    "project_id": "numexpress-2dc6f",
+    "storage_bucket": "numexpress-2dc6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302663652554:android:5f152a3ed6ef7c7b599033",
+        "android_client_info": {
+          "package_name": "com.example.numexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC5z_0XggBfhkAeQIGPATbI_mtK0dhhmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
